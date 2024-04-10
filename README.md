@@ -2,6 +2,8 @@
 
 To setup the project first you need to add an .env file and add a key `VITE_RAPID_API_ARTICLE_KEY` and the value should be the apikey that can be retrieved from subscriber to [Summarizer API](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
 
+It can be accessed from [here](https://keen-travesseiro-a36d62.netlify.app/)
+
 To build the project, make sure you run
 
 ```
